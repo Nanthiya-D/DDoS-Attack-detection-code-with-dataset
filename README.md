@@ -22,8 +22,18 @@ CICDDoS2019 (DDoS network traffic dataset)
 
 Or mirror on Kaggle: https://www.kaggle.com/datasets/dhoogla/cicddos2019
 
-
-
-
 KDD Cup 1999 (classic intrusion detection benchmark)
 🔗 Official download from SIGKDD: https://www.kdd.org/kdd-cup/view/kdd-cup-1999/Data
+
+
+# Colab Sheet workflow
+
+Data Preprocessing
+Variance Thresholding
+Correlation Filtering
+Feature Selection Using Hybrid Optimization - Particle Swarm Optimization (PSO) & Grey Wolf Optimization (GWO)
+Data Normalization and Splitting
+Artificial Neural Network (ANN)
+
+
+
